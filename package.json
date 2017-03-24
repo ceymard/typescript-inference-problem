@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "name": "typescript-inference-regression-test",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "domic": "^1.0.0-beta12"
+  }
+}
